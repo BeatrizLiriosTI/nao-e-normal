@@ -40,7 +40,3 @@ O design foi pensado para transmitir **acolhimento e força**.
 * **Simbolismo:** Flores e borboletas (representando transformação e liberdade).
 
 ---
-
-
-   ```bash
-   git clone [https://github.com/seu-usuario/nao-e-normal.git](https://github.com/seu-usuario/nao-e-normal.git)
