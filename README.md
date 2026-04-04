@@ -1,6 +1,6 @@
 # 💜 Não É Normal
 
-> **Um espaço de conscientização, apoio e validação para mulheres. Aprenda a identificar o que não deve ser aceito.**
+> **Um espaço(site) de conscientização, apoio e validação para mulheres. Aprenda a identificar o que não deve ser aceito.**
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-purple?style=for-the-badge" alt="Status">
