@@ -30,6 +30,7 @@ Utilizei o que há de mais moderno no desenvolvimento web para criar uma experi�
 | **React.js** | Biblioteca para construção de interfaces modulares. | <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> |
 | **HTML5** | Estruturação semântica do conteúdo. | <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> |
 | **CSS3** | Estilização e design responsivo. | <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |
+| **Bootstrap 5** | Framework para desenvolvimento de layouts responsivos e componentes prontos. | <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> |
 
 ---
 
